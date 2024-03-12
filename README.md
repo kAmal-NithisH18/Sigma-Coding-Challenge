@@ -1,7 +1,7 @@
 # Sigma-Coding-Challenge
 
 ## Introduction
-Welcome to the repository for the Sigma Wedge Hackathon project by Subash S. from PSG College of Technology. This project focuses on implementing financial market modeling and prediction techniques using Python. Below is a summary of the contents and key features of this repository.
+Welcome to the repository for the Sigma Wedge Hackathon. This project focuses on implementing financial market modeling and prediction techniques using Python. Below is a summary of the contents and key features of this repository.
 
 ## Contents
 1. **Implementation of QuantRocket**: Utilizing QuantRocket for financial data collection and analysis.
